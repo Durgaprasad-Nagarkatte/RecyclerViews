@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin_haeding">10dp</dimen>
+    <dimen name="heading_margin_textview_left">5dp</dimen>
+    <dimen name="bank_margin_bottom">5dp</dimen>
+    <dimen name="layout_margin_right_withdrawl">10dp</dimen>
+    <dimen name="linear_layout_current_balance">10dp</dimen>
+    <dimen name="layout_margin_current_value">15dp</dimen>
+</resources>
